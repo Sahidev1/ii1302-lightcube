@@ -1,2 +1,2 @@
 # ii1302-lightcube
-This is the repository that will be used for the project of the course II1302.
+This repository was created for the course II1302, it will be used for the project.
