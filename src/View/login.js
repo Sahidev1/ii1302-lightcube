@@ -8,7 +8,7 @@ function Login() {
                 <table align="center">
                   <tbody>
                     <tr>
-                        <td align="center">User Name</td>
+                        <td align="center">Username</td>
                         <td>
                             <input type="text" placeholder="Enter your username"/>
                         </td>
