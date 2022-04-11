@@ -1,4 +1,4 @@
-function Login() {
+function Login({navRegPage}) {
     return (
         <div>
             <div>
@@ -23,7 +23,7 @@ function Login() {
                         <td></td>
                         <td>
                             <input type="submit" value="Login"/>
-                            <input type="submit" value="Register"/>
+                            <button onClick={e => navRegPage()}>Register</button>
                         </td>
                     </tr>
                   </tbody>
