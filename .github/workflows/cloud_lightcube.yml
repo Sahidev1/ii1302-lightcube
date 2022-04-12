@@ -52,5 +52,5 @@ jobs:
         with:
           app-name: 'Lightcube'
           slot-name: 'Production'
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_6B73D4B1DA0C4F65A71C6F5684A230C5 }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_EDA35AA48F0F42F984E67A851BC7A912 }}
           package: .
